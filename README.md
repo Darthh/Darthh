@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake.svg" />
-    <img alt="An animated snake eating Darthh's GitHub contributions" src="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake.svg" />
+    <img alt="An animated snake following Darthh's visible GitHub contribution calendar" src="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -40,4 +40,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,anaconda,aws,vercel,vscode&theme=dark" alt="Git, GitHub, Docker, Terraform, Anaconda, AWS, Vercel, and VS Code" />
+  <a href="https://www.firecrawl.dev/" title="Firecrawl"><img src="https://www.firecrawl.dev/favicon.ico" width="48" height="48" alt="Firecrawl" /></a>
+  <a href="https://exa.ai/" title="Exa"><img src="https://exa.ai/favicon.ico" width="48" height="48" alt="Exa AI" /></a>
 </p>
