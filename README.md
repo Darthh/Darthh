@@ -40,6 +40,6 @@
 ## Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,anaconda,aws,vercel,vscode,ollama&theme=dark" alt="Git, GitHub, Docker, Terraform, Anaconda, AWS, Vercel, VS Code, and Ollama" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,anaconda,aws,vercel,vscode&theme=dark" alt="Git, GitHub, Docker, Terraform, Anaconda, AWS, Vercel, and VS Code" />
   <a href="https://exa.ai/" title="Exa"><img src="https://exa.ai/favicon.ico" width="48" height="48" alt="Exa AI" /></a>
 </p>
