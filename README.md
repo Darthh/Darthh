@@ -1,9 +1,13 @@
 <div align="center">
+  <h2>Repository Contribution Activity</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake.svg" />
-    <img alt="An animated snake following Darthh's visible GitHub contribution calendar" src="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake.svg" />
+    <img alt="An animated snake following Darthh's contributions across public and private repositories" src="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake.svg" />
   </picture>
+  <sub>
+    Live activity across my GitHub repositories. Private work appears only as anonymized contribution cells—repository names, code, and commit details stay private.
+  </sub>
 </div>
 
 <div align="center">
