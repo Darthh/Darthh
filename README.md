@@ -5,9 +5,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake.svg" />
     <img alt="An animated snake following Darthh's contributions across public and private repositories" src="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake.svg" />
   </picture>
-  <sub>
-    Live activity across my GitHub repositories. Private work appears only as anonymized contribution cells—repository names, code, and commit details stay private.
-  </sub>
 </div>
 
 <div align="center">
@@ -43,6 +40,6 @@
 ## Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,anaconda,aws,vercel,vscode&theme=dark" alt="Git, GitHub, Docker, Terraform, Anaconda, AWS, Vercel, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,anaconda,aws,vercel,vscode,ollama&theme=dark" alt="Git, GitHub, Docker, Terraform, Anaconda, AWS, Vercel, VS Code, and Ollama" />
   <a href="https://exa.ai/" title="Exa"><img src="https://exa.ai/favicon.ico" width="48" height="48" alt="Exa AI" /></a>
 </p>
