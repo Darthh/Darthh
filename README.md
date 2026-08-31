@@ -9,7 +9,7 @@
 
 <div align="center">
 
-# Hi, I'm Darthh 👋
+# Hi, I'm Darthh/Patrick👋
 
 ### Building software where AI, markets, and data meet.
 
