@@ -40,6 +40,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,anaconda,aws,vercel,vscode&theme=dark" alt="Git, GitHub, Docker, Terraform, Anaconda, AWS, Vercel, and VS Code" />
-  <a href="https://www.firecrawl.dev/" title="Firecrawl"><img src="https://www.firecrawl.dev/favicon.ico" width="48" height="48" alt="Firecrawl" /></a>
+  <kbd><a href="https://www.firecrawl.dev/" title="Firecrawl"><img src="https://www.firecrawl.dev/brand/firecrawl-logo.png" width="42" height="42" alt="Firecrawl" /></a></kbd>
   <a href="https://exa.ai/" title="Exa"><img src="https://exa.ai/favicon.ico" width="48" height="48" alt="Exa AI" /></a>
 </p>
