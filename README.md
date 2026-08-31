@@ -1,4 +1,12 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake.svg" />
+    <img alt="An animated snake eating Darthh's GitHub contributions" src="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
 
 # Hi, I'm Darthh 👋
 
@@ -14,12 +22,12 @@
 - 🤖 Focused on computer science, AI, and quantitative finance
 - 📈 Building tools for market data, stock analysis, and financial research
 - 🧪 Interested in turning experiments into useful, public projects
-- 🌱 Currently sharpening my systems, cloud, and machine-learning skills
+- ⚡ Currently sharpening my systems, cloud, and machine-learning skills
 
 ## Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,lua&theme=dark" alt="Python, Java, C++, JavaScript, and Lua" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,lua,ocaml&theme=dark" alt="Python, Java, C++, JavaScript, Lua, and OCaml" />
 </p>
 
 ## Frameworks & Libraries
@@ -31,22 +39,5 @@
 ## Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,linux,vscode&theme=dark" alt="Git, GitHub, Docker, Terraform, Linux, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,anaconda,aws,vercel,vscode&theme=dark" alt="Git, GitHub, Docker, Terraform, Anaconda, AWS, Vercel, and VS Code" />
 </p>
-
-## Featured work
-
-- [FearAndGreed](https://github.com/Darthh/FearAndGreed) — index charts built to explore market correlations
-- [fear-and-greed-index-data](https://github.com/Darthh/fear-and-greed-index-data) — free daily Fear & Greed Index data in JSON and CSV
-- [aistockevaluator](https://github.com/Darthh/aistockevaluator) — an AI-assisted stock evaluation project
-
-## Contribution trail
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake.svg" />
-    <img alt="An animated snake eating Darthh's GitHub contributions" src="https://raw.githubusercontent.com/Darthh/Darthh/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
