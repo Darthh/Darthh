@@ -34,12 +34,12 @@
 ## Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,tailwind,prisma&theme=dark" alt="React, Node.js, TensorFlow, Tailwind CSS, and Prisma" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,tailwind&theme=dark" alt="React, Node.js, TensorFlow, and Tailwind CSS" />
 </p>
 
 ## Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,aws,vscode,obsidian,postgres&theme=dark" alt="Git, GitHub, Docker, Terraform, AWS, VS Code, Obsidian, and PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,aws,vscode,obsidian&theme=dark" alt="Git, GitHub, Docker, Terraform, AWS, VS Code, and Obsidian" />
   <a href="https://ollama.com/" title="Ollama"><img src="https://ollama.com/public/icon-48x48.png" width="48" height="48" alt="Ollama" /></a>
 </p>
