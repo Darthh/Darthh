@@ -13,7 +13,7 @@
 
 ### Building software where AI, markets, and data meet.
 
-<a href="https://feargreedflow.com"><img src="assets/feargreedflow-logo.png" width="28" height="28" alt="Feargreedflow FG logo" /> <img src="https://img.shields.io/badge/Feargreedflow.com-111827?style=for-the-badge" alt="Feargreedflow.com" /></a>
+<a href="https://feargreedflow.com"><img src="assets/feargreedflow-logo.png" width="28" height="28" alt="Feargreedflow FG logo" /></a> <a href="https://feargreedflow.com"><img src="https://img.shields.io/badge/Feargreedflow.com-111827?style=for-the-badge" alt="Feargreedflow.com" /></a>
 [![GitHub](https://img.shields.io/badge/GitHub-Darthh-181717?style=for-the-badge&logo=github)](https://github.com/Darthh)
 
 </div>
