@@ -13,7 +13,7 @@
 
 ### Building software where AI, markets, and data meet.
 
-[![Website](https://img.shields.io/badge/fearandgreedgraph.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fearandgreedgraph.com)
+<a href="https://feargreedflow.com"><img src="assets/feargreedflow-logo.png" width="28" height="28" alt="Feargreedflow FG logo" /> <img src="https://img.shields.io/badge/Feargreedflow.com-111827?style=for-the-badge" alt="Feargreedflow.com" /></a>
 [![GitHub](https://img.shields.io/badge/GitHub-Darthh-181717?style=for-the-badge&logo=github)](https://github.com/Darthh)
 
 </div>
@@ -40,6 +40,6 @@
 ## Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,aws,vscode&theme=dark" alt="Git, GitHub, Docker, Terraform, AWS, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,aws,vscode,obsidian&theme=dark" alt="Git, GitHub, Docker, Terraform, AWS, VS Code, and Obsidian" />
   <a href="https://ollama.com/" title="Ollama"><img src="https://ollama.com/public/icon-48x48.png" width="48" height="48" alt="Ollama" /></a>
 </p>
