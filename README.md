@@ -28,19 +28,18 @@
 ## Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,rust,js,lua&theme=dark" alt="Python, Java, TypeScript, Rust, JavaScript, and Lua" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,rust,lua&theme=dark" alt="TypeScript, JavaScript, Python, Java, Rust, and Lua" />
 </p>
 
 ## Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,pytorch,tensorflow,tailwind&theme=dark" alt="React, Node.js, Flask, PyTorch, TensorFlow, and Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,tailwind&theme=dark" alt="React, Node.js, TensorFlow, and Tailwind CSS" />
 </p>
 
 ## Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,anaconda,aws,vscode&theme=dark" alt="Git, GitHub, Docker, Terraform, Anaconda, AWS, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,aws,vscode&theme=dark" alt="Git, GitHub, Docker, Terraform, AWS, and VS Code" />
   <a href="https://ollama.com/" title="Ollama"><img src="https://ollama.com/public/icon-48x48.png" width="48" height="48" alt="Ollama" /></a>
-  <a href="https://exa.ai/" title="Exa"><img src="https://exa.ai/favicon.ico" width="48" height="48" alt="Exa AI" /></a>
 </p>
