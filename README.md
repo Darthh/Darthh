@@ -28,18 +28,19 @@
 ## Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,lua,ocaml&theme=dark" alt="Python, Java, C++, JavaScript, Lua, and OCaml" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,rust,js,lua&theme=dark" alt="Python, Java, TypeScript, Rust, JavaScript, and Lua" />
 </p>
 
 ## Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,pytorch,tensorflow&theme=dark" alt="React, Node.js, Flask, PyTorch, and TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,pytorch,tensorflow,tailwind&theme=dark" alt="React, Node.js, Flask, PyTorch, TensorFlow, and Tailwind CSS" />
 </p>
 
 ## Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,anaconda,aws,vercel,vscode&theme=dark" alt="Git, GitHub, Docker, Terraform, Anaconda, AWS, Vercel, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,anaconda,aws,vscode&theme=dark" alt="Git, GitHub, Docker, Terraform, Anaconda, AWS, and VS Code" />
+  <a href="https://ollama.com/" title="Ollama"><img src="https://ollama.com/public/icon-48x48.png" width="48" height="48" alt="Ollama" /></a>
   <a href="https://exa.ai/" title="Exa"><img src="https://exa.ai/favicon.ico" width="48" height="48" alt="Exa AI" /></a>
 </p>
