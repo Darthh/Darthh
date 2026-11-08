@@ -21,9 +21,8 @@
 
 ## About me
 
-- 🤖 Focused on computer science, AI, and quantitative finance
+- 🤖 Focused on Finance, AI agents, and Quantitative finance algorithms.
 - 📈 Building tools for market data, stock analysis, and financial research
-- 🧪 Interested in turning experiments into useful, public projects
 - ⚡ Currently sharpening my systems, cloud, and machine-learning skills
 
 ## Languages
